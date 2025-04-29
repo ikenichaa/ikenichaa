@@ -1,16 +1,26 @@
 ## Hi there 👋
+Welcome to my GitHub! I'm a full-stack software engineer with a foundation in backend and frontend development. I'm currently diving deeper into the world of **data science** and **large language models (LLMs)**.
 
-<!--
-**ikenichaa/ikenichaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Technical Background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️ Full Stack Engineering
+- **Backend:**
+  - ⚙️ *Go* (Golang) – RESTful API development
+  - 🐍 *Python* – Data pipelines and distributed computing with **Apache Spark**
+  - ⚡ Workflow orchestration using **Dagster**
+  - 🗄️ MongoDB – NoSQL document database for flexible and scalable data storage
+  - 📊 *Apache Druid* – Real-time analytics database for fast aggregation and filtering
+
+
+- **Frontend:**
+  - 🎨 Vue.js with **TypeScript**
+  - 💨 Styling with **Tailwind CSS**
+
+### 📚 Currently Exploring
+- **Data Science & AI**
+  - Machine Learning, NLP, and statistical modelling
+- **LLM Projects**
+  - Building, fine-tuning, and deploying Large Language Models for real-world applications
+
