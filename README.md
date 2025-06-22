@@ -3,22 +3,23 @@ Welcome to my GitHub! I'm a full-stack software engineer with a foundation in ba
 
 ---
 
-## 🔧 Technical Background
+## Technical Background
 
-### 🖥️ Full Stack Engineering
+### Full Stack Engineering
 - **Backend:**
-  - ⚙️ *Go* (Golang) – RESTful API development
-  - 🐍 *Python* – Data pipelines and distributed computing with **Apache Spark**
-  - ⚡ Workflow orchestration using **Dagster**
-  - 🗄️ MongoDB – NoSQL document database for flexible and scalable data storage
-  - 📊 *Apache Druid* – Real-time analytics database for fast aggregation and filtering
+  - *Go* (Golang) – RESTful API development
+  - *Python* – Data pipelines and distributed computing with **Apache Spark**
+  - Data orchestration using **Dagster**
+  - MongoDB – NoSQL document database for flexible and scalable data storage
+  - *Apache Druid* – Real-time analytics database for fast aggregation and filtering
 
 
 - **Frontend:**
-  - 🎨 Vue.js with **TypeScript**
-  - 💨 Styling with **Tailwind CSS**
+  - Vue.js
+  - React.js
+  - Styling with **Tailwind CSS**
 
-### 📚 Currently Exploring
+### Currently Exploring
 - **Data Science & AI**
   - Machine Learning, NLP, and statistical modelling
 - **LLM Projects**
